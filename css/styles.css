@@ -1,0 +1,247 @@
+hr {
+    /* border-style: none;
+       border-top-style: dotted;
+    */
+     border-style: dotted none none;
+     
+     width: 4%;
+     border-width: 5px;
+     color: #000000;
+     clear: left;
+     margin: 100px auto 100px ;
+ }
+ .photo{
+     width:200px;
+     height:200px;
+     border-radius:150px;
+     border:10px solid black;
+ }
+ h1{
+     line-height: 1;
+     width: 10%;
+     margin: 0 auto 0 auto;
+     font-family: 'Imprint MT Shadow';
+     /*font-size: 70px;
+     font-size: 4.6em;
+     font-size: 4.6rem; good
+     */
+     font-size: 300%;
+     color: #EA2C62;
+     
+     
+ }
+
+
+
+ h2 {
+     font-family: 'Imprint MT Shadow ';
+     font-size: 2.5rem;
+     padding-bottom: 10px;
+     
+     color: #EA2C62;
+     text-align: center;
+ }
+ h3{
+     font-family: 'Imprint MT Shadow';
+     color: #EA2C62;
+     align-content: center;
+     text-align: center;
+     margin-top: 100px;
+     
+
+ }
+ 
+ .img {
+     margin-top: 100px;
+     width:400px;
+     height:300px;
+     display: block;
+     text-align: right;
+
+ 
+ }
+
+
+.imagen {
+    align-content: center;
+    margin-top: 100px;
+}
+
+.foto{
+    width: 350px;
+    height: 250px;
+    align-content: left;
+}
+ 
+ body{
+     background-color: #FBACCC; 
+     margin: 10px;
+     text-align: center;
+     color: black;
+     font-family: 'Montserrat';
+ }
+ 
+ 
+ p{
+     line-height: 4;
+     font-family: Cooper black;
+     color: #000000;
+     align-content: center;
+     text-align: center;
+     height: 450 ;
+     width: 550;
+ 
+ }
+ 
+ 
+ 
+ .giphy-embed{
+     width: 25%;
+     height: 200px;
+     float: right;
+     position: relative;
+     margin-left: 50px;
+ }
+ 
+ 
+ 
+ .btn {
+     background: #11cdd4;
+     background-image: -webkit-linear-gradient(top, #007965);
+     background-image: -moz-linear-gradient(top, #007965);
+     background-image: -ms-linear-gradient(top, #007965);
+     background-image: -o-linear-gradient(top, #007965);
+     background-image: linear-gradient(to bottom, #007965);
+     -webkit-border-radius: 8;
+     -moz-border-radius: 8;
+     border-radius: 8px;
+     font-family: 'Cooper black';
+     color: #007965;
+     font-size: 20px;
+     padding: 10px 20px 10px 20px;
+     text-decoration: none;
+     margin-bottom: 100px;
+   }
+   
+   
+   
+   .click{
+     margin-bottom: 100px;
+   }
+   .bottom-container{
+       background-color: #66BFBF;
+       padding: 50px 0 20px;
+   }
+   
+ 
+   
+ 
+   .copyright{
+     padding: 20px 0px ;
+     font-family: 'Monserrat';
+     color: #EAF6F6;
+     font-size: 0.75rem;
+   }
+
+   .habilidad{
+    width: 150px;
+    height: 200px;
+    align-content: right;   
+    text-align: right;
+   }
+
+.crepusculo{
+    width: 150px; ;
+    height: 200px;
+    align-content: left;
+    margin-top: 0px;
+    
+}   
+
+.peli{
+    align-content: left;
+    text-align: left;
+    margin-top: 0mm;  
+    font-family: Cooper black;
+}
+
+.musica{
+    align-content: left;
+    text-align: left;
+    margin-top: 0px;
+    font-family: Cooper black;
+}
+   
+.wyy{
+    margin-top: 0px;
+    margin-top: 0mm;
+    align-content: right;
+    width: 150px;
+    height: 200px;
+}
+
+.hobbies{
+    width: 250px;
+    height: 150px;
+}
+
+.familia{
+    width: 200px;
+    height: 200px;
+    font-family: Cooper black;
+    align-content: right;
+    text-align: left;
+}
+
+.amigos{
+    width: 200px;
+    height: 200px;
+    font-family: Cooper black;
+    align-content: right;
+    text-align: left;
+}
+ 
+.h22{
+    font-family: 'Imprint MT Shadow'; 
+    color: #EA2C62;
+}
+
+.pizza{
+    width: 200px;
+    height: 200px;
+    align-content: right;
+}
+
+.textopizza{
+    font-family: Cooper black;
+}
+
+.ensalada{
+    width: 300px;
+    height: 200px;
+    align-content: right;  
+}
+
+.textoensa{
+    font-family: Cooper black;  
+}
+
+.textojugo{
+    font-family: Cooper black; 
+}
+
+.jugo{
+    width: 300px;
+    height: 200px;
+    align-content: center;    
+}
+
+.textococa{
+    font-family: Cooper black;   
+}
+
+.coca{
+    width: 250px;
+    height: 300px;
+    align-content: center;    
+}
